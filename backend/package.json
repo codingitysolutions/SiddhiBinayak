@@ -1,0 +1,16 @@
+{
+  "name": "siddhibinayak-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "wrangler dev"
+  },
+  "dependencies": {
+    "cloudinary": "^2.10.0",
+    "hono": "^4.12.26"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260619.1",
+    "typescript": "^5.9.3",
+    "wrangler": "^3.114.17"
+  }
+}

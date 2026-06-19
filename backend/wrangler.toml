@@ -1,0 +1,8 @@
+name = "siddhibinayak-backend"
+main = "src/index.ts"
+compatibility_date = "2024-03-20"
+
+[[d1_databases]]
+binding = "siddhibinayak_db"
+database_name = "siddhibinayak-db"
+database_id = "fc14cf31-8d73-40e3-84cf-e9d1610fd35c"
