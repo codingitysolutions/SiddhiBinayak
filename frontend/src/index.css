@@ -1961,7 +1961,25 @@ footer {
     flex-wrap: wrap;
   }
   .hero-form {
-    display: none;
+    display: block;
+    margin-top: 2rem;
+  }
+  .hero-stats {
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  .hero-stat {
+    width: 40%;
+  }
+  .moments-tabs {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .clients-row {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1.5rem !important;
   }
   .parallax-content h2 {
     font-size: 1.8rem;
