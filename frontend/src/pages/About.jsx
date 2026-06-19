@@ -7,8 +7,8 @@ const About = () => {
     <>
       <SEO 
         title="About Us" 
-        description="Learn about Siddhi Binayak Catering. We have been elevating special moments with exquisite culinary experiences and impeccable service since 2010."
-        url="https://siddhibinayakcatering.com/about"
+        description="Learn about Siddhi Binayak Catering, the best catering service in Bhubaneswar. We have been elevating special moments with exquisite culinary experiences and impeccable service since 2010."
+        url="https://www.siddhibinayak.in/about"
       />
       <div className="page-hero">
     <div className="page-hero-inner">
@@ -24,7 +24,7 @@ const About = () => {
         </div>
         <div className="reveal-right">
           <div className="section-label">Our Story</div>
-          <h2 className="section-title">About Siddhi Binayak<br /><em>Catering Service</em></h2>
+          <h2 className="section-title">The Best Catering Service<br /><em>in Bhubaneswar</em></h2>
           <div className="divider"></div>
           <p className="about-text" style={{ fontSize: '13px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.9', marginBottom: '1rem' }}>Siddhi Binayak Catering Service was founded with a simple belief – great food brings people together. We are passionate about creating delightful dining experiences for every event we cater.</p>
           <p style={{ fontSize: '13px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.9' }}>From traditional flavors to modern cuisines, we ensure every dish leaves a lasting impression. Our team of experienced chefs and service professionals work tirelessly to ensure that each event is a success.</p>
@@ -46,7 +46,7 @@ const About = () => {
         <div className="mission-card">
           <div className="mission-icon">👁️</div>
           <h3>Our Vision</h3>
-          <p>To be the most trusted name in catering services in Bhubaneswar and beyond.</p>
+          <p>To be the most trusted and best catering service in Bhubaneswar and beyond.</p>
         </div>
         <div className="mission-card">
           <div className="mission-icon">💎</div>

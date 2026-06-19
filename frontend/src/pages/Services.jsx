@@ -9,7 +9,7 @@ const Services = () => {
         title="Our Services" 
         description="Discover our range of catering services including Wedding, Corporate, Birthday, Reception, and Outdoor Catering in Bhubaneswar."
         keywords="wedding catering Bhubaneswar, corporate catering, birthday party caterers"
-        url="https://siddhibinayakcatering.com/services"
+        url="https://www.siddhibinayak.in/services"
       />
       <div className="page-hero">
     <div className="page-hero-inner">

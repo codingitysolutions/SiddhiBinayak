@@ -44,7 +44,7 @@ const Booking = () => {
       <SEO 
         title="Book an Event" 
         description="Plan your event with us. Book our premium catering services effortlessly online and let us make your celebration memorable."
-        url="https://siddhibinayakcatering.com/booking"
+        url="https://www.siddhibinayak.in/booking"
       />
       <div className="page-hero" style={{ padding: '120px 0 60px' }}>
         <div className="page-hero-inner">

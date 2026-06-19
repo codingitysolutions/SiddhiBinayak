@@ -29,7 +29,7 @@ const Contact = () => {
       <SEO 
         title="Contact Us" 
         description="Get in touch with Siddhi Binayak Catering. Contact us for quotes, bookings, and inquiries for your next event."
-        url="https://siddhibinayakcatering.com/contact"
+        url="https://www.siddhibinayak.in/contact"
       />
       <div className="page-hero">
         <div className="page-hero-inner">

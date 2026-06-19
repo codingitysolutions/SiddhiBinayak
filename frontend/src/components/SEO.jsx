@@ -5,11 +5,11 @@ const SEO = ({
   title, 
   description, 
   keywords, 
-  url = 'https://siddhibinayakcatering.com',
+  url = 'https://www.siddhibinayak.in',
   image = '/logo.png',
   schema 
 }) => {
-  const siteTitle = 'Siddhi Binayak Catering';
+  const siteTitle = 'Siddhi Binayak Catering | Best Catering Service in Bhubaneswar';
   const fullTitle = siteTitle; // Use siteTitle as fullTitle for all meta tags
   
   return (

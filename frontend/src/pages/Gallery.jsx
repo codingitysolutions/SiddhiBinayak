@@ -22,7 +22,7 @@ const Gallery = () => {
       <SEO 
         title="Gallery" 
         description="Browse our gallery to see our beautiful event setups, exquisite food presentations, and happy clients."
-        url="https://siddhibinayakcatering.com/gallery"
+        url="https://www.siddhibinayak.in/gallery"
       />
       <div className="page-hero">
         <div className="page-hero-inner">

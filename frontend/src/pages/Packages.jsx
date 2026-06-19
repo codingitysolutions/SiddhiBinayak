@@ -22,7 +22,7 @@ const Packages = () => {
         title="Catering Packages" 
         description="View our affordable and premium catering packages tailored for any event size and budget in Bhubaneswar."
         keywords="catering packages, catering prices, wedding catering packages"
-        url="https://siddhibinayakcatering.com/packages"
+        url="https://www.siddhibinayak.in/packages"
       />
       <div className="page-hero">
         <div className="page-hero-inner">

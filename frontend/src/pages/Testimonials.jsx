@@ -21,7 +21,7 @@ const Testimonials = () => {
       <SEO 
         title="Client Testimonials" 
         description="Read what our clients have to say about our premium catering services, delicious food, and professional staff."
-        url="https://siddhibinayakcatering.com/testimonials"
+        url="https://www.siddhibinayak.in/testimonials"
       />
       <div className="page-hero">
     <div className="page-hero-inner">

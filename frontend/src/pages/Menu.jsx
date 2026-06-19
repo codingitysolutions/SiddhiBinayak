@@ -38,7 +38,7 @@ const Menu = () => {
         title="Our Menu" 
         description="Explore our exquisite and customizable catering menu. From welcome drinks to main courses and desserts, we serve perfection."
         keywords="catering menu, food menu, wedding menu, Indian catering dishes"
-        url="https://siddhibinayakcatering.com/menu"
+        url="https://www.siddhibinayak.in/menu"
       />
       <div className="page-hero">
         <div className="page-hero-inner">

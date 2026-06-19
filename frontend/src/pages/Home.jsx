@@ -41,15 +41,15 @@ const Home = () => {
     <>
       <SEO 
         title="Home" 
-        description="Premium catering services for weddings, corporate events, and parties in Bhubaneswar. We make every celebration delicious and memorable."
-        keywords="Siddhi Binayak Catering, Bhubaneswar caterers, wedding catering, event catering Odisha"
-        url="https://siddhibinayakcatering.com"
+        description="Looking for the best catering service in Bhubaneswar? Siddhi Binayak Catering provides premium food for weddings, corporate events, and parties. We make every celebration delicious."
+        keywords="best catering service in bhubaneswar, best bhubaneswar caterers, Siddhi Binayak Catering, wedding catering bhubaneswar, top caterers in odisha"
+        url="https://www.siddhibinayak.in"
         schema={{
           "@context": "https://schema.org",
           "@type": "FoodEstablishment",
           "name": "Siddhi Binayak Catering",
-          "image": "https://siddhibinayakcatering.com/logo.png",
-          "description": "Premium catering services for weddings, corporate events, birthdays, and festivals in Bhubaneswar, Odisha.",
+          "image": "https://www.siddhibinayak.in/logo.png",
+          "description": "Ranked as the best catering service in Bhubaneswar, providing premium catering for weddings, corporate events, and parties in Odisha.",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "Opposite Of 21 Apartment, Patia",
@@ -68,7 +68,7 @@ const Home = () => {
     <div className="hero-overlay"></div>
     <div className="hero-content">
       <div>
-        <div className="hero-badge">✦ Bhubaneswar's Premium Catering Service</div>
+        <div className="hero-badge">✦ The Best Catering Service in Bhubaneswar</div>
         <h1 className="hero-title">
           <span className="animate-word">Making Every</span>{' '}
           <span className="animate-word delay-1">Celebration</span><br />
