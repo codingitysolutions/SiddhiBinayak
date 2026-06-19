@@ -151,8 +151,9 @@ nav.scrolled {
 }
 .hero {
   align-items: center;
-  height: 100vh;
-  padding-top: 72px;
+  min-height: 100vh;
+  padding-top: 100px;
+  padding-bottom: 4rem;
   display: flex;
   position: relative;
   overflow: hidden;
@@ -1924,8 +1925,8 @@ footer {
     z-index: 99;
     flex-direction: column;
     align-items: center;
-    gap: 1.5rem;
-    padding: 2rem;
+    gap: 0.8rem;
+    padding: 1.5rem 1rem;
     transition:
       opacity 0.4s,
       transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -2597,6 +2598,25 @@ footer {
   .footer-grid {
     grid-template-columns: 1fr;
     gap: 2rem;
+    text-align: center;
+  }
+  .footer-grid .footer-desc {
+    text-align: center !important;
+    margin: 0 auto 1.5rem !important;
+  }
+  .footer-grid .footer-social {
+    justify-content: center;
+  }
+  .footer-grid .footer-contact-item {
+    align-items: center !important;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 4px;
+  }
+  .footer-col-title::after {
+    left: 50%;
+    transform: translateX(-50%);
   }
   .hero-title {
     font-size: clamp(2rem, 10vw, 3rem) !important;
