@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin/
 Disallow: /admin/*
 
-Sitemap: https://siddhibinayakcatering.com/sitemap.xml
+Sitemap: https://www.siddhibinayak.in/sitemap.xml
