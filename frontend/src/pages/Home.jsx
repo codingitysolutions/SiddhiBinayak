@@ -149,7 +149,7 @@ const Home = () => {
       </div>
       <div className="services-grid reveal">
         <div className="service-card" >
-          <img className="service-card-img" src="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?w=400&q=80" alt="Marriage Function" />
+          <img className="service-card-img" src="/indian_marriage_function.png" alt="Marriage Function" />
           <div className="service-card-overlay"></div>
           <div className="service-card-content">
             <div className="service-card-title">Marriage Function</div>
@@ -167,7 +167,7 @@ const Home = () => {
           </div>
         </div>
         <div className="service-card" >
-          <img className="service-card-img" src="https://images.unsplash.com/photo-1530103862676-de889d4af7fc?w=400&q=80" alt="Birthday Party" />
+          <img className="service-card-img" src="/indian_birthday_party.png" alt="Birthday Party" />
           <div className="service-card-overlay"></div>
           <div className="service-card-content">
             <div className="service-card-title">Birthday Party</div>
