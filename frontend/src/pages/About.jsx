@@ -6,8 +6,9 @@ const About = () => {
   return (
     <>
       <SEO 
-        title="About Us" 
-        description="Learn about Siddhi Binayak Catering, the best catering service in Bhubaneswar. We have been elevating special moments with exquisite culinary experiences and impeccable service since 2010."
+        title="About Us | Top Caterers in Bhubaneswar" 
+        description="Learn about Siddhi Binayak Event & Catering, the No. 1 catering service in Bhubaneswar. We provide the best event and catering services in Odisha since 2010."
+        keywords="best caterers in bhubaneswar, no. 1 catering service in bhubaneswar, top caterers in bhubaneswar, event and catering services in bhubaneswar"
         url="https://www.siddhibinayak.in/about"
       />
       <div className="page-hero">
@@ -26,8 +27,8 @@ const About = () => {
           <div className="section-label">Our Story</div>
           <h2 className="section-title">The Best Catering Service<br /><em>in Bhubaneswar</em></h2>
           <div className="divider"></div>
-          <p className="about-text" style={{ fontSize: '13px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.9', marginBottom: '1rem' }}>Siddhi Binayak Catering Service was founded with a simple belief – great food brings people together. We are passionate about creating delightful dining experiences for every event we cater.</p>
-          <p style={{ fontSize: '13px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.9' }}>From traditional flavors to modern cuisines, we ensure every dish leaves a lasting impression. Our team of experienced chefs and service professionals work tirelessly to ensure that each event is a success.</p>
+          <p className="about-text" style={{ fontSize: '13px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.9', marginBottom: '1rem' }}>Siddhi Binayak Event & Catering was founded with a simple belief – great food brings people together. Recognized as the <strong>No. 1 catering service in Bhubaneswar</strong>, we are passionate about creating delightful dining experiences and providing comprehensive <strong>event and catering services in Bhubaneswar</strong> for every celebration we touch.</p>
+          <p style={{ fontSize: '13px', color: 'rgba(255,255,255,0.65)', lineHeight: '1.9' }}>From traditional Odia flavors to modern continental cuisines, we ensure every dish leaves a lasting impression. Our team of experienced chefs and event managers work tirelessly to ensure that each event is a flawless success, solidifying our reputation as the <strong>top caterers in Bhubaneswar</strong>.</p>
         </div>
       </div>
     </div>

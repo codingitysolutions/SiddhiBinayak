@@ -6,9 +6,9 @@ const Services = () => {
   return (
     <>
       <SEO 
-        title="Our Services" 
-        description="Discover our range of catering services including Wedding, Corporate, Birthday, Reception, and Outdoor Catering in Bhubaneswar."
-        keywords="wedding catering Bhubaneswar, corporate catering, birthday party caterers"
+        title="Wedding & Corporate Catering in Bhubaneswar" 
+        description="Looking for the best catering service in Bhubaneswar? We specialize in wedding catering, corporate catering, birthday parties, and event management."
+        keywords="wedding catering in bhubaneswar, corporate catering in bhubaneswar, birthday party catering in bhubaneswar, best caterers in bhubaneswar, event and catering services in bhubaneswar"
         url="https://www.siddhibinayak.in/services"
       />
       <div className="page-hero">
@@ -19,6 +19,12 @@ const Services = () => {
   </div>
   <section className="section" style={{ background: 'var(--dark2)' }}>
     <div className="section-inner">
+      <div className="reveal" style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 3rem auto' }}>
+        <h2 className="section-title" style={{ fontSize: '1.8rem', marginBottom: '1rem' }}>Best Catering Service in Bhubaneswar</h2>
+        <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '14px', lineHeight: '1.8' }}>
+          As the <strong>No. 1 catering service in Bhubaneswar</strong>, Siddhi Binayak Event & Catering provides an unforgettable culinary experience. From extravagant <strong>wedding catering</strong> to professional <strong>corporate catering</strong> and vibrant <strong>birthday party catering</strong>, we are your trusted partners for all <strong>event and catering services in Bhubaneswar</strong>. We offer premium yet <strong>affordable catering services</strong> tailored to your specific needs.
+        </p>
+      </div>
       <div className="services-page-grid reveal">
         <div className="service-big-card"><img src="/indian_marriage_function.png" alt="Marriage Function" /><div className="service-big-overlay"></div><div className="service-big-content"><h3>Marriage Function</h3><p>Complete catering and management for your special wedding day. We handle everything perfectly.</p><Link to="/booking" className="explore-btn">Book Now →</Link></div></div>
         <div className="service-big-card"><img src="/indian_birthday_party.png" alt="Birthday Party" /><div className="service-big-overlay"></div><div className="service-big-content"><h3>Birthday Party</h3><p>Make birthdays extra special with customized menus and complete event arrangements.</p><Link to="/booking" className="explore-btn">Book Now →</Link></div></div>

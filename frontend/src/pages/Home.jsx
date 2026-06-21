@@ -40,16 +40,16 @@ const Home = () => {
   return (
     <>
       <SEO 
-        title="Home" 
-        description="Looking for the best catering service in Bhubaneswar? Siddhi Binayak Catering provides premium food for weddings, corporate events, and parties. We make every celebration delicious."
-        keywords="best catering service in bhubaneswar, best bhubaneswar caterers, Siddhi Binayak Catering, wedding catering bhubaneswar, top caterers in odisha"
+        title="No. 1 Catering Service in Bhubaneswar" 
+        description="Looking for the best caterers in Bhubaneswar? Siddhi Binayak Event & Catering provides premium, affordable event and catering services for weddings, corporate events, and parties."
+        keywords="best catering in bhubaneswar, best catering service in bhubaneswar, best caterers in bhubaneswar, no. 1 catering service in bhubaneswar, event and catering services in bhubaneswar, affordable catering service in bhubaneswar"
         url="https://www.siddhibinayak.in"
         schema={{
           "@context": "https://schema.org",
           "@type": "FoodEstablishment",
           "name": "Siddhi Binayak Catering",
           "image": "https://www.siddhibinayak.in/logo.png",
-          "description": "Ranked as the best catering service in Bhubaneswar, providing premium catering for weddings, corporate events, and parties in Odisha.",
+          "description": "Ranked as the No. 1 catering service in Bhubaneswar, providing premium event and catering services for weddings, corporate events, and birthdays in Odisha.",
           "address": {
             "@type": "PostalAddress",
             "streetAddress": "Infront Of Z - Zone Apartment, Patia",
@@ -68,12 +68,11 @@ const Home = () => {
     <div className="hero-overlay"></div>
     <div className="hero-content">
       <div>
-        <div className="hero-badge">✦ The Best Catering Service in Bhubaneswar</div>
-        <h1 className="hero-title">
-          <span className="animate-word">Making Every</span>{' '}
-          <span className="animate-word delay-1">Celebration</span><br />
-          <em className="animate-word delay-2">Delicious &</em>{' '}
-          <em className="animate-word delay-3">Memorable</em>
+        <div className="hero-badge">✦ Top Caterers in Bhubaneswar</div>
+        <h1 className="hero-title" style={{ fontSize: '3.5rem', lineHeight: '1.2' }}>
+          <span className="animate-word">Best Event &</span><br />
+          <span className="animate-word delay-1">Catering Services</span><br />
+          <em className="animate-word delay-2">in Bhubaneswar</em>
         </h1>
         <p className="hero-desc">From intimate gatherings to grand celebrations, we serve exceptional food with perfect taste and quality.</p>
         <div className="hero-btns">
@@ -202,9 +201,9 @@ const Home = () => {
         </div>
         <div className="reveal-right">
           <div className="section-label">Why Choose Us</div>
-          <h2 className="section-title">Because We Serve<br /><em>More Than Just Food</em></h2>
+          <h2 className="section-title">Affordable Catering Service<br /><em>in Bhubaneswar</em></h2>
           <div className="divider"></div>
-          <p style={{ fontSize: '13px', color: 'rgba(255,255,255,0.6)', lineHeight: '1.8' }}>Siddhi Professionals with years of experience in the catering industry. We use the finest ingredients to prepare dishes that delight every palate.</p>
+          <p style={{ fontSize: '13px', color: 'rgba(255,255,255,0.6)', lineHeight: '1.8' }}>Siddhi Binayak is ranked among the best caterers in Bhubaneswar. We provide premium event and catering services for weddings, corporate parties, and birthdays without compromising on quality or budget.</p>
           <div className="why-features">
             <div className="why-feat">
               <div className="why-feat-icon">👨‍🍳</div>
