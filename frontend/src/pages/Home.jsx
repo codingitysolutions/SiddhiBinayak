@@ -266,10 +266,14 @@ const Home = () => {
         <button className={`moment-tab ${activeMoment === 'corporate' ? 'active' : ''}`} onClick={() => setActiveMoment('corporate')}>Corporate Events</button>
       </div>
       <div className="moments-grid reveal" id="momentsGrid">
-        {(activeMoment === 'all' || activeMoment === 'wedding') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1519741497674-611481863552?w=300&q=80" alt="Wedding" /></div>}
-        {(activeMoment === 'all' || activeMoment === 'reception') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=300&q=80" alt="Reception" /></div>}
-        {(activeMoment === 'all' || activeMoment === 'birthday') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=300&q=80" alt="Birthday" /></div>}
-        {(activeMoment === 'all' || activeMoment === 'corporate') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=300&q=80" alt="Corporate" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'wedding') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?w=500&q=80" alt="Wedding Buffet" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'reception') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=500&q=80" alt="Reception Setup" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'birthday') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&q=80" alt="Birthday Snacks" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'corporate') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500&q=80" alt="Corporate Event" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'wedding') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1626776876729-ab5a420958db?w=500&q=80" alt="Wedding Food" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'reception') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=500&q=80" alt="Reception Platter" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'birthday') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1615996001375-c7ef13294436?w=500&q=80" alt="Birthday Sweets" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'corporate') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1555244162-803834f70033?w=500&q=80" alt="Corporate Lunch" /></div>}
       </div>
       <div className="reveal" style={{ textAlign: 'center', marginTop: '2rem' }}>
         <Link to="/gallery" className="btn-outline" style={{ fontSize: '12px', padding: '10px 28px' }}>View More</Link>

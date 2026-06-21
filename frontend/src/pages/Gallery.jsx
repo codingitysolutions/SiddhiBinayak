@@ -6,15 +6,18 @@ const Gallery = () => {
   const [activeMoment, setActiveMoment] = useState('all');
 
   const galleryImages = [
-    { id: 1, type: 'wedding', src: 'https://images.unsplash.com/photo-1519741497674-611481863552?w=500&q=80', alt: 'Wedding Reception' },
-    { id: 2, type: 'reception', src: 'https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=500&q=80', alt: 'Reception Setup' },
-    { id: 3, type: 'birthday', src: 'https://images.unsplash.com/photo-1527529482837-4698179dc6ce?w=500&q=80', alt: 'Birthday Party' },
-    { id: 4, type: 'corporate', src: 'https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=500&q=80', alt: 'Corporate Event' },
-    { id: 5, type: 'wedding', src: 'https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=500&q=80', alt: 'Wedding Dining' },
-    { id: 6, type: 'reception', src: 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=500&q=80', alt: 'Reception Guests' },
-    { id: 7, type: 'birthday', src: 'https://images.unsplash.com/photo-1530103862676-de88b635fd52?w=500&q=80', alt: 'Birthday Cake' },
-    { id: 8, type: 'corporate', src: 'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=500&q=80', alt: 'Corporate Seminar Catering' },
-    { id: 9, type: 'wedding', src: 'https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=500&q=80', alt: 'Wedding Decoration' },
+    { id: 1, type: 'wedding', src: 'https://images.unsplash.com/photo-1533777857889-4be7c70b33f7?w=500&q=80', alt: 'Grand Wedding Buffet' },
+    { id: 2, type: 'reception', src: 'https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=500&q=80', alt: 'Elegant Reception Setup' },
+    { id: 3, type: 'birthday', src: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500&q=80', alt: 'Birthday Party Snacks' },
+    { id: 4, type: 'corporate', src: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=500&q=80', alt: 'Corporate Dining Experience' },
+    { id: 5, type: 'wedding', src: 'https://images.unsplash.com/photo-1626776876729-ab5a420958db?w=500&q=80', alt: 'Premium Indian Cuisine' },
+    { id: 6, type: 'reception', src: 'https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=500&q=80', alt: 'Reception Dining' },
+    { id: 7, type: 'birthday', src: 'https://images.unsplash.com/photo-1615996001375-c7ef13294436?w=500&q=80', alt: 'Festive Sweets & Desserts' },
+    { id: 8, type: 'corporate', src: 'https://images.unsplash.com/photo-1555244162-803834f70033?w=500&q=80', alt: 'Corporate Catering Services' },
+    { id: 9, type: 'wedding', src: 'https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=500&q=80', alt: 'Signature Biryani' },
+    { id: 10, type: 'reception', src: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&q=80', alt: 'Reception Platters' },
+    { id: 11, type: 'birthday', src: 'https://images.unsplash.com/photo-1530103862676-de88b635fd52?w=500&q=80', alt: 'Celebration Setup' },
+    { id: 12, type: 'corporate', src: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=500&q=80', alt: 'Executive Lunch' },
   ];
 
   return (
