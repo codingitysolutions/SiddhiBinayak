@@ -74,10 +74,10 @@ const Packages = () => {
                 <thead><tr><th>Features</th><th>Silver</th><th>Gold</th><th>Platinum</th></tr></thead>
                 <tbody>
                   <tr><td>Variety of Dishes</td><td>Basic</td><td>Recommended</td><td>Premium</td></tr>
-                  <tr><td>Starters</td><td>3</td><td>5</td><td>8</td></tr>
+                  <tr><td>Starters</td><td>3</td><td>4</td><td>8</td></tr>
                   <tr><td>Main Course</td><td>2</td><td>4</td><td>6</td></tr>
                   <tr><td>Desserts</td><td>2</td><td>3</td><td>4</td></tr>
-                  <tr><td>Live Counters</td><td>2</td><td>3</td><td>5</td></tr>
+                  <tr><td>Live Counters</td><td>2</td><td>2</td><td>3</td></tr>
                   <tr><td>Service Staff</td><td>Basic</td><td>Premium</td><td>Exclusive</td></tr>
                   <tr><td>Cutlery & Plates</td><td>Basic</td><td>Premium</td><td>Premium</td></tr>
                   <tr><td>Price Per Plate</td><td style={{ color: 'var(--gold)' }}>₹499</td><td style={{ color: 'var(--gold)' }}>₹699</td><td style={{ color: 'var(--gold)' }}>₹999</td></tr>
