@@ -270,7 +270,7 @@ const Home = () => {
         {(activeMoment === 'all' || activeMoment === 'reception') && <div className="gallery-item"><img src="/wedding_reception.png" alt="Elegant Reception Setup" /></div>}
         {(activeMoment === 'all' || activeMoment === 'birthday') && <div className="gallery-item"><img src="/birthday_celebration.png" alt="Vibrant Birthday Celebration" /></div>}
         {(activeMoment === 'all' || activeMoment === 'corporate') && <div className="gallery-item"><img src="/corporate_event.png" alt="Sophisticated Corporate Event" /></div>}
-        {(activeMoment === 'all' || activeMoment === 'wedding') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1626776876729-ab5a420958db?w=500&q=80" alt="Wedding Food" /></div>}
+        {(activeMoment === 'all' || activeMoment === 'wedding') && <div className="gallery-item"><img src="/wedding_food.png" alt="Delicious Wedding Food Spread" /></div>}
         {(activeMoment === 'all' || activeMoment === 'reception') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=500&q=80" alt="Reception Platter" /></div>}
         {(activeMoment === 'all' || activeMoment === 'birthday') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1615996001375-c7ef13294436?w=500&q=80" alt="Birthday Sweets" /></div>}
         {(activeMoment === 'all' || activeMoment === 'corporate') && <div className="gallery-item"><img src="https://images.unsplash.com/photo-1555244162-803834f70033?w=500&q=80" alt="Corporate Lunch" /></div>}
