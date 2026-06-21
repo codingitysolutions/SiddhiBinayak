@@ -14,10 +14,10 @@ const Gallery = () => {
     { id: 6, type: 'reception', src: '/wedding_food.png', alt: 'Reception Dining Thali' },
     { id: 7, type: 'birthday', src: '/birthday_party.png', alt: 'Kids Birthday Party' },
     { id: 8, type: 'corporate', src: '/corporate_buffet.png', alt: 'Corporate Catering Buffet' },
-    { id: 9, type: 'wedding', src: 'https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=500&q=80', alt: 'Signature Biryani' },
-    { id: 10, type: 'reception', src: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=500&q=80', alt: 'Reception Platters' },
-    { id: 11, type: 'birthday', src: 'https://images.unsplash.com/photo-1530103862676-de88b635fd52?w=500&q=80', alt: 'Celebration Setup' },
-    { id: 12, type: 'corporate', src: 'https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=500&q=80', alt: 'Executive Lunch' },
+    { id: 9, type: 'wedding', src: '/wedding_biryani.png', alt: 'Authentic Indian Biryani' },
+    { id: 10, type: 'reception', src: '/reception_platter.png', alt: 'Premium Appetizer Platter' },
+    { id: 11, type: 'birthday', src: '/birthday_cake.png', alt: '3-Tier Birthday Cake' },
+    { id: 12, type: 'corporate', src: '/corporate_lunch.png', alt: 'Gourmet Corporate Lunch' },
   ];
 
   return (
