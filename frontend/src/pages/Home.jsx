@@ -149,38 +149,38 @@ const Home = () => {
       </div>
       <div className="services-grid reveal">
         <div className="service-card" >
-          <img className="service-card-img" src="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?w=400&q=80" alt="Wedding Catering" />
+          <img className="service-card-img" src="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?w=400&q=80" alt="Marriage Function" />
           <div className="service-card-overlay"></div>
           <div className="service-card-content">
-            <div className="service-card-title">Wedding Catering</div>
-            <div className="service-card-desc">Make your wedding day unforgettable with our delicious menu.</div>
+            <div className="service-card-title">Marriage Function</div>
+            <div className="service-card-desc">Complete catering and management for your special wedding day.</div>
             <Link to="/services" className="explore-btn">Explore More →</Link>
           </div>
         </div>
         <div className="service-card" >
-          <img className="service-card-img" src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80" alt="Corporate" />
+          <img className="service-card-img" src="https://images.unsplash.com/photo-1511578314322-379afb476865?w=400&q=80" alt="Corporate Party" />
           <div className="service-card-overlay"></div>
           <div className="service-card-content">
-            <div className="service-card-title">Corporate Catering</div>
-            <div className="service-card-desc">Professional catering for meetings, conferences and events.</div>
+            <div className="service-card-title">Corporate Party</div>
+            <div className="service-card-desc">Professional catering for meetings, conferences and corporate events.</div>
             <Link to="/services" className="explore-btn">Explore More →</Link>
           </div>
         </div>
         <div className="service-card" >
-          <img className="service-card-img" src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80" alt="Birthday" />
+          <img className="service-card-img" src="https://images.unsplash.com/photo-1530103862676-de889d4af7fc?w=400&q=80" alt="Birthday Party" />
           <div className="service-card-overlay"></div>
           <div className="service-card-content">
-            <div className="service-card-title">Birthday Catering</div>
-            <div className="service-card-desc">Delicious food to make your birthday celebrations extra special.</div>
+            <div className="service-card-title">Birthday Party</div>
+            <div className="service-card-desc">Make birthdays extra special with customized menus and arrangements.</div>
             <Link to="/services" className="explore-btn">Explore More →</Link>
           </div>
         </div>
         <div className="service-card" >
-          <img className="service-card-img" src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&q=80" alt="Outdoor" />
+          <img className="service-card-img" src="https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=400&q=80" alt="Mocktail Party" />
           <div className="service-card-overlay"></div>
           <div className="service-card-content">
-            <div className="service-card-title">Outdoor Catering</div>
-            <div className="service-card-desc">From venues to outdoor events, we serve everywhere with perfection.</div>
+            <div className="service-card-title">Mocktail Party</div>
+            <div className="service-card-desc">Refreshing mocktail setups with professional bartenders.</div>
             <Link to="/services" className="explore-btn">Explore More →</Link>
           </div>
         </div>
