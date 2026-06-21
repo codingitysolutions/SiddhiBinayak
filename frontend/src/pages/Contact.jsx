@@ -46,7 +46,7 @@ const Contact = () => {
               <div className="divider"></div>
               <div className="contact-info-item">
                 <div className="contact-icon">📍</div>
-                <div><div className="contact-info-title">Our Location</div><div className="contact-info-text">Opposite Of 21 Apartment, Patia,<br />Bhubaneswar, Odisha 751024</div></div>
+                <div><div className="contact-info-title">Our Location</div><div className="contact-info-text">Infront Of Z - Zone Apartment, Patia,<br />Bhubaneswar, Odisha 751024</div></div>
               </div>
               <div className="contact-info-item">
                 <div className="contact-icon">📞</div>
@@ -68,7 +68,7 @@ const Contact = () => {
                 <a className="social-btn" href="/">📷</a>
               </div></div>
               <div className="map-embed" style={{ marginTop: '1.5rem' }}>
-                <iframe src="https://maps.google.com/maps?q=21%20Apartment,%20Patia,%20Bhubaneswar,%20Odisha%20751024&t=&z=15&ie=UTF8&iwloc=&output=embed" width="100%" height="250" style={{ border: '0', borderRadius: '8px' }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://maps.google.com/maps?q=Z%20-%20Zone%20Apartment,%20Patia,%20Bhubaneswar,%20Odisha%20751024&t=&z=15&ie=UTF8&iwloc=&output=embed" width="100%" height="250" style={{ border: '0', borderRadius: '8px' }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
             <div className="reveal-right">
